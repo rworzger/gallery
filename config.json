@@ -1,45 +1,96 @@
 {
-  "People": [],
+  "Animals": [
+    {
+      "width": 3936,
+      "height": 2624,
+      "path": "./photos/Animals/DSC02105.jpg",
+      "compressed_path": "./photos/Animals/DSC02105.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Animals/DSC02105.placeholder.jpg"
+    },
+    {
+      "width": 3936,
+      "height": 2624,
+      "path": "./photos/Animals/DSC01848.jpg",
+      "compressed_path": "./photos/Animals/DSC01848.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Animals/DSC01848.placeholder.jpg"
+    },
+    {
+      "width": 3936,
+      "height": 2624,
+      "path": "./photos/Animals/DSC02090.jpg",
+      "compressed_path": "./photos/Animals/DSC02090.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Animals/DSC02090.placeholder.jpg"
+    },
+    {
+      "width": 3936,
+      "height": 2624,
+      "path": "./photos/Animals/DSC01836.jpg",
+      "compressed_path": "./photos/Animals/DSC01836.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Animals/DSC01836.placeholder.jpg"
+    },
+    {
+      "width": 3936,
+      "height": 2624,
+      "path": "./photos/Animals/DSC02131.jpg",
+      "compressed_path": "./photos/Animals/DSC02131.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Animals/DSC02131.placeholder.jpg"
+    }
+  ],
+  "People": [
+    {
+      "width": 2252,
+      "height": 2251,
+      "path": "./photos/People/IMG_2643.JPG",
+      "compressed_path": "./photos/People/IMG_2643.min.JPG",
+      "compressed": false,
+      "placeholder_path": "./photos/People/IMG_2643.placeholder.JPG"
+    },
+    {
+      "width": 2252,
+      "height": 2252,
+      "path": "./photos/People/IMG_2222.JPG",
+      "compressed_path": "./photos/People/IMG_2222.min.JPG",
+      "compressed": false,
+      "placeholder_path": "./photos/People/IMG_2222.placeholder.JPG"
+    }
+  ],
   "Travel": [
     {
-      "width": 6000,
-      "height": 4000,
-      "path": "./photos/Travel/DSC02228.jpg",
-      "compressed_path": "./photos/Travel/DSC02228.min.jpg",
+      "width": 2252,
+      "height": 2251,
+      "path": "./photos/Travel/IMG_2641.JPG",
+      "compressed_path": "./photos/Travel/IMG_2641.min.JPG",
       "compressed": false,
-      "placeholder_path": "./photos/Travel/DSC02228.placeholder.jpg"
+      "placeholder_path": "./photos/Travel/IMG_2641.placeholder.JPG"
     },
     {
-      "width": 6000,
-      "height": 4000,
-      "path": "./photos/Travel/DSC02226.jpg",
-      "compressed_path": "./photos/Travel/DSC02226.min.jpg",
+      "width": 2252,
+      "height": 2251,
+      "path": "./photos/Travel/IMG_2640.JPG",
+      "compressed_path": "./photos/Travel/IMG_2640.min.JPG",
       "compressed": false,
-      "placeholder_path": "./photos/Travel/DSC02226.placeholder.jpg"
+      "placeholder_path": "./photos/Travel/IMG_2640.placeholder.JPG"
     },
     {
-      "width": 6000,
-      "height": 4000,
-      "path": "./photos/Travel/DSC02227.jpg",
-      "compressed_path": "./photos/Travel/DSC02227.min.jpg",
+      "width": 2252,
+      "height": 2251,
+      "path": "./photos/Travel/IMG_2644.JPG",
+      "compressed_path": "./photos/Travel/IMG_2644.min.JPG",
       "compressed": false,
-      "placeholder_path": "./photos/Travel/DSC02227.placeholder.jpg"
+      "placeholder_path": "./photos/Travel/IMG_2644.placeholder.JPG"
     },
     {
-      "width": 6000,
-      "height": 4000,
-      "path": "./photos/Travel/DSC02225.jpg",
-      "compressed_path": "./photos/Travel/DSC02225.min.jpg",
+      "width": 2252,
+      "height": 2251,
+      "path": "./photos/Travel/IMG_2221.JPG",
+      "compressed_path": "./photos/Travel/IMG_2221.min.JPG",
       "compressed": false,
-      "placeholder_path": "./photos/Travel/DSC02225.placeholder.jpg"
-    },
-    {
-      "width": 6000,
-      "height": 4000,
-      "path": "./photos/Travel/DSC02224.jpg",
-      "compressed_path": "./photos/Travel/DSC02224.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Travel/DSC02224.placeholder.jpg"
+      "placeholder_path": "./photos/Travel/IMG_2221.placeholder.JPG"
     }
   ]
 }
