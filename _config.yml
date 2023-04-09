@@ -10,7 +10,7 @@ full_name: Ruizhe Wang
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
-layout_style: COLUMNS
+layout_style: SQUARES
 
 # Variables below are default. Feel free to customize the values below, but do
 # not remove the property.
@@ -25,7 +25,7 @@ shuffle: true
 columns: 4
 
 # Integer: Max height for rows
-max_height: 4000
+max_height: 400
 
 # Handle
 instagram: rworzger
