@@ -343,14 +343,6 @@
   ],
   "People": [
     {
-      "width": 6000,
-      "height": 4000,
-      "path": "./photos/People/DSC02304.jpg",
-      "compressed_path": "./photos/People/DSC02304.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/People/DSC02304.placeholder.jpg"
-    },
-    {
       "width": 4000,
       "height": 3000,
       "path": "./photos/People/DJI_0045.JPG",
