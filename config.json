@@ -1,5 +1,265 @@
 {
+  "Scenery": [
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Scenery/DSC02338.jpg",
+      "compressed_path": "./photos/Scenery/DSC02338.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Scenery/DSC02338.placeholder.jpg"
+    },
+    {
+      "width": 3936,
+      "height": 2624,
+      "path": "./photos/Scenery/DSC02067.jpg",
+      "compressed_path": "./photos/Scenery/DSC02067.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Scenery/DSC02067.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Scenery/DSC02102.jpg",
+      "compressed_path": "./photos/Scenery/DSC02102.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Scenery/DSC02102.placeholder.jpg"
+    },
+    {
+      "width": 3117,
+      "height": 2051,
+      "path": "./photos/Scenery/c200_25.jpg",
+      "compressed_path": "./photos/Scenery/c200_25.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Scenery/c200_25.placeholder.jpg"
+    },
+    {
+      "width": 3101,
+      "height": 2050,
+      "path": "./photos/Scenery/c200_18.jpg",
+      "compressed_path": "./photos/Scenery/c200_18.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Scenery/c200_18.placeholder.jpg"
+    },
+    {
+      "width": 3104,
+      "height": 2050,
+      "path": "./photos/Scenery/c200_30.jpg",
+      "compressed_path": "./photos/Scenery/c200_30.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Scenery/c200_30.placeholder.jpg"
+    },
+    {
+      "width": 3936,
+      "height": 2624,
+      "path": "./photos/Scenery/DSC02212.jpg",
+      "compressed_path": "./photos/Scenery/DSC02212.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Scenery/DSC02212.placeholder.jpg"
+    },
+    {
+      "width": 3936,
+      "height": 2624,
+      "path": "./photos/Scenery/DSC01917.jpg",
+      "compressed_path": "./photos/Scenery/DSC01917.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Scenery/DSC01917.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Scenery/DSC01247.jpg",
+      "compressed_path": "./photos/Scenery/DSC01247.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Scenery/DSC01247.placeholder.jpg"
+    },
+    {
+      "width": 3936,
+      "height": 2624,
+      "path": "./photos/Scenery/DSC02028.jpg",
+      "compressed_path": "./photos/Scenery/DSC02028.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Scenery/DSC02028.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Scenery/DSC02225.jpg",
+      "compressed_path": "./photos/Scenery/DSC02225.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Scenery/DSC02225.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Scenery/DSC02191.jpg",
+      "compressed_path": "./photos/Scenery/DSC02191.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Scenery/DSC02191.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Scenery/DSC02230.jpg",
+      "compressed_path": "./photos/Scenery/DSC02230.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Scenery/DSC02230.placeholder.jpg"
+    },
+    {
+      "width": 3101,
+      "height": 2050,
+      "path": "./photos/Scenery/c200_16.jpg",
+      "compressed_path": "./photos/Scenery/c200_16.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Scenery/c200_16.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Scenery/DSC02180.jpg",
+      "compressed_path": "./photos/Scenery/DSC02180.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Scenery/DSC02180.placeholder.jpg"
+    },
+    {
+      "width": 3107,
+      "height": 2051,
+      "path": "./photos/Scenery/c200_28.jpg",
+      "compressed_path": "./photos/Scenery/c200_28.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Scenery/c200_28.placeholder.jpg"
+    },
+    {
+      "width": 3936,
+      "height": 2624,
+      "path": "./photos/Scenery/DSC01765.jpg",
+      "compressed_path": "./photos/Scenery/DSC01765.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Scenery/DSC01765.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Scenery/DSC02247.jpg",
+      "compressed_path": "./photos/Scenery/DSC02247.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Scenery/DSC02247.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Scenery/DSC02280.jpg",
+      "compressed_path": "./photos/Scenery/DSC02280.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Scenery/DSC02280.placeholder.jpg"
+    },
+    {
+      "width": 3936,
+      "height": 2624,
+      "path": "./photos/Scenery/DSC01763.jpg",
+      "compressed_path": "./photos/Scenery/DSC01763.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Scenery/DSC01763.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Scenery/DSC00443.JPG",
+      "compressed_path": "./photos/Scenery/DSC00443.min.JPG",
+      "compressed": false,
+      "placeholder_path": "./photos/Scenery/DSC00443.placeholder.JPG"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Scenery/DSC02136.jpg",
+      "compressed_path": "./photos/Scenery/DSC02136.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Scenery/DSC02136.placeholder.jpg"
+    }
+  ],
+  "Randommm": [
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Randommm/DSC00448.JPG",
+      "compressed_path": "./photos/Randommm/DSC00448.min.JPG",
+      "compressed": false,
+      "placeholder_path": "./photos/Randommm/DSC00448.placeholder.JPG"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Randommm/DSC01130.jpg",
+      "compressed_path": "./photos/Randommm/DSC01130.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Randommm/DSC01130.placeholder.jpg"
+    },
+    {
+      "width": 3338,
+      "height": 2208,
+      "path": "./photos/Randommm/c200_35.jpg",
+      "compressed_path": "./photos/Randommm/c200_35.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Randommm/c200_35.placeholder.jpg"
+    },
+    {
+      "width": 1616,
+      "height": 1080,
+      "path": "./photos/Randommm/DSC00428.JPG",
+      "compressed_path": "./photos/Randommm/DSC00428.min.JPG",
+      "compressed": false,
+      "placeholder_path": "./photos/Randommm/DSC00428.placeholder.JPG"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Randommm/DSC01116.jpg",
+      "compressed_path": "./photos/Randommm/DSC01116.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Randommm/DSC01116.placeholder.jpg"
+    },
+    {
+      "width": 3936,
+      "height": 2624,
+      "path": "./photos/Randommm/DSC02091.jpg",
+      "compressed_path": "./photos/Randommm/DSC02091.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Randommm/DSC02091.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Randommm/DSC01362.jpg",
+      "compressed_path": "./photos/Randommm/DSC01362.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Randommm/DSC01362.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Randommm/DSC02243.jpg",
+      "compressed_path": "./photos/Randommm/DSC02243.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Randommm/DSC02243.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Randommm/DSC01358.jpg",
+      "compressed_path": "./photos/Randommm/DSC01358.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Randommm/DSC01358.placeholder.jpg"
+    }
+  ],
   "Animals": [
+    {
+      "width": 3024,
+      "height": 4032,
+      "path": "./photos/Animals/IMG_1135.jpg",
+      "compressed_path": "./photos/Animals/IMG_1135.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Animals/IMG_1135.placeholder.jpg"
+    },
     {
       "width": 3936,
       "height": 2624,
@@ -11,18 +271,50 @@
     {
       "width": 3936,
       "height": 2624,
+      "path": "./photos/Animals/DSC02260.jpg",
+      "compressed_path": "./photos/Animals/DSC02260.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Animals/DSC02260.placeholder.jpg"
+    },
+    {
+      "width": 3936,
+      "height": 2624,
       "path": "./photos/Animals/DSC01848.jpg",
       "compressed_path": "./photos/Animals/DSC01848.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Animals/DSC01848.placeholder.jpg"
     },
     {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Animals/DSC01443.jpg",
+      "compressed_path": "./photos/Animals/DSC01443.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Animals/DSC01443.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Animals/DSC01124.jpg",
+      "compressed_path": "./photos/Animals/DSC01124.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Animals/DSC01124.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Animals/DSC01285.jpg",
+      "compressed_path": "./photos/Animals/DSC01285.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Animals/DSC01285.placeholder.jpg"
+    },
+    {
       "width": 3936,
       "height": 2624,
-      "path": "./photos/Animals/DSC02090.jpg",
-      "compressed_path": "./photos/Animals/DSC02090.min.jpg",
+      "path": "./photos/Animals/DSC01857.jpg",
+      "compressed_path": "./photos/Animals/DSC01857.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Animals/DSC02090.placeholder.jpg"
+      "placeholder_path": "./photos/Animals/DSC01857.placeholder.jpg"
     },
     {
       "width": 3936,
@@ -39,58 +331,144 @@
       "compressed_path": "./photos/Animals/DSC02131.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Animals/DSC02131.placeholder.jpg"
+    },
+    {
+      "width": 3936,
+      "height": 2624,
+      "path": "./photos/Animals/DSC02253.jpg",
+      "compressed_path": "./photos/Animals/DSC02253.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Animals/DSC02253.placeholder.jpg"
     }
   ],
   "People": [
     {
-      "width": 2252,
-      "height": 2251,
-      "path": "./photos/People/IMG_2643.JPG",
-      "compressed_path": "./photos/People/IMG_2643.min.JPG",
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/People/DSC02304.jpg",
+      "compressed_path": "./photos/People/DSC02304.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/People/IMG_2643.placeholder.JPG"
+      "placeholder_path": "./photos/People/DSC02304.placeholder.jpg"
     },
     {
-      "width": 2252,
-      "height": 2252,
-      "path": "./photos/People/IMG_2222.JPG",
-      "compressed_path": "./photos/People/IMG_2222.min.JPG",
+      "width": 4000,
+      "height": 3000,
+      "path": "./photos/People/DJI_0045.JPG",
+      "compressed_path": "./photos/People/DJI_0045.min.JPG",
       "compressed": false,
-      "placeholder_path": "./photos/People/IMG_2222.placeholder.JPG"
-    }
-  ],
-  "Travel": [
-    {
-      "width": 2252,
-      "height": 2251,
-      "path": "./photos/Travel/IMG_2641.JPG",
-      "compressed_path": "./photos/Travel/IMG_2641.min.JPG",
-      "compressed": false,
-      "placeholder_path": "./photos/Travel/IMG_2641.placeholder.JPG"
+      "placeholder_path": "./photos/People/DJI_0045.placeholder.JPG"
     },
     {
-      "width": 2252,
-      "height": 2251,
-      "path": "./photos/Travel/IMG_2640.JPG",
-      "compressed_path": "./photos/Travel/IMG_2640.min.JPG",
+      "width": 3936,
+      "height": 2624,
+      "path": "./photos/People/DSC02272.jpg",
+      "compressed_path": "./photos/People/DSC02272.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Travel/IMG_2640.placeholder.JPG"
+      "placeholder_path": "./photos/People/DSC02272.placeholder.jpg"
     },
     {
-      "width": 2252,
-      "height": 2251,
-      "path": "./photos/Travel/IMG_2644.JPG",
-      "compressed_path": "./photos/Travel/IMG_2644.min.JPG",
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/People/DSC01437.jpg",
+      "compressed_path": "./photos/People/DSC01437.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Travel/IMG_2644.placeholder.JPG"
+      "placeholder_path": "./photos/People/DSC01437.placeholder.jpg"
     },
     {
-      "width": 2252,
-      "height": 2251,
-      "path": "./photos/Travel/IMG_2221.JPG",
-      "compressed_path": "./photos/Travel/IMG_2221.min.JPG",
+      "width": 3936,
+      "height": 2624,
+      "path": "./photos/People/DSC01999.jpg",
+      "compressed_path": "./photos/People/DSC01999.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Travel/IMG_2221.placeholder.JPG"
+      "placeholder_path": "./photos/People/DSC01999.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/People/DSC02207.jpg",
+      "compressed_path": "./photos/People/DSC02207.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/People/DSC02207.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/People/DSC00615.jpg",
+      "compressed_path": "./photos/People/DSC00615.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/People/DSC00615.placeholder.jpg"
+    },
+    {
+      "width": 3936,
+      "height": 2624,
+      "path": "./photos/People/DSC01896.jpg",
+      "compressed_path": "./photos/People/DSC01896.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/People/DSC01896.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/People/DSC00584.jpg",
+      "compressed_path": "./photos/People/DSC00584.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/People/DSC00584.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/People/DSC00816.jpg",
+      "compressed_path": "./photos/People/DSC00816.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/People/DSC00816.placeholder.jpg"
+    },
+    {
+      "width": 4000,
+      "height": 3000,
+      "path": "./photos/People/DJI_0012.JPG",
+      "compressed_path": "./photos/People/DJI_0012.min.JPG",
+      "compressed": false,
+      "placeholder_path": "./photos/People/DJI_0012.placeholder.JPG"
+    },
+    {
+      "width": 1616,
+      "height": 1080,
+      "path": "./photos/People/DSC00651.JPG",
+      "compressed_path": "./photos/People/DSC00651.min.JPG",
+      "compressed": false,
+      "placeholder_path": "./photos/People/DSC00651.placeholder.JPG"
+    },
+    {
+      "width": 3936,
+      "height": 2624,
+      "path": "./photos/People/DSC01955.jpg",
+      "compressed_path": "./photos/People/DSC01955.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/People/DSC01955.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/People/IMG_1674.JPG",
+      "compressed_path": "./photos/People/IMG_1674.min.JPG",
+      "compressed": false,
+      "placeholder_path": "./photos/People/IMG_1674.placeholder.JPG"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/People/DSC00643.jpg",
+      "compressed_path": "./photos/People/DSC00643.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/People/DSC00643.placeholder.jpg"
+    },
+    {
+      "width": 3936,
+      "height": 2624,
+      "path": "./photos/People/DSC02081.jpg",
+      "compressed_path": "./photos/People/DSC02081.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/People/DSC02081.placeholder.jpg"
     }
   ]
 }
